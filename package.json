@@ -1,0 +1,21 @@
+{
+  "name": "useless-one-log",
+  "version": "1.0.22",
+  "description": "The most useless npm module ever.",
+  "main": "index.js",
+  "typings": "./index.d.ts",
+  "author": "Reverso",
+  "license": "MIT",
+  "keywords": [
+    "useless",
+    "log",
+    "one"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReversoDev/useless-one-log.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ReversoDev/useless-one-log/issues"
+  }
+}
