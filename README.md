@@ -16,3 +16,10 @@ TypeScript stuff: (why did I add typings?)
 import('useless-one-log');
 one();
 ```
+
+## 1.0.3
+ Added a useless function.
+ ```js
+ import('useless-one-log');
+ useless();
+ ```

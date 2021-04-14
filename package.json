@@ -1,6 +1,6 @@
 {
   "name": "useless-one-log",
-  "version": "1.0.22",
+  "version": "1.0.3",
   "description": "The most useless npm module ever.",
   "main": "index.js",
   "typings": "./index.d.ts",
