@@ -20,6 +20,6 @@ one();
 ## 1.0.3
  Added a useless function.
  ```js
- import('useless-one-log');
+ require('useless-one-log');
  useless();
  ```
