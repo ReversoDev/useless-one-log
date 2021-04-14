@@ -1,4 +1,6 @@
-declare function one(): void;
-declare function useless(): void;
-export = one;
-export = useless;
+declare namespace one_log {
+    function one(): void;
+    function useless(): void;
+}
+
+export = one_log
